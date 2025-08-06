@@ -1,0 +1,17 @@
+Scan results for 192.168.29.23
+Port range: 1 to 1024
+
+Port 21 is OPEN (FTP (Control))
+Port 22 is OPEN (SSH)
+Port 23 is OPEN (Telnet)
+Port 25 is OPEN (SMTP)
+Port 53 is OPEN (DNS)
+Port 80 is OPEN (HTTP)
+Port 111 is OPEN (Unknown service)
+Port 139 is OPEN (Unknown service)
+Port 445 is OPEN (Unknown service)
+Port 512 is OPEN (Unknown service)
+Port 513 is OPEN (Unknown service)
+Port 514 is OPEN (Unknown service)
+
+Scan completed in 0:00:00.535535
