@@ -3,9 +3,13 @@ This is a simple yet functional port scanner built using Python. I created this 
 
 ## Features
 -Accepts user input for target IP and port range
+
 -Scans the provided ports and identifies open ones
+
 -Detects common services running on the open ports
+
 -Saves scan results in a scan_results.txt file
+
 -Easy to understand and use for beginners exploring networking concepts
 
 ## How it works
@@ -13,19 +17,29 @@ The script uses Python’s socket module to scan each port in the given range. F
 
 ## Files Included
 -port_scanner.py — Main Python script for port scanning
+
 -scan_results.txt — Automatically generated file with scan output
+
 -screenshot1.png — Example screenshot of terminal output (optional)
+
 -README.md — This documentation
 
 ## How to Use
 1.Make sure Python is installed on your system
+
 2.Clone the repository or download the script
+
 3.Open a terminal and navigate to the project directory
+
 4.Run the script with:
-   python port_scanner.py
+```bash
+      python port_scanner.py
+   ```
 5.Enter the target IP address and port range when prompted
+
 6.View the results in the terminal and scan_results.txt
 
 ## Requirements
 -Python 3
+
 -Internet access for scanning public IPs (if required)
